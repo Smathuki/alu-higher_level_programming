@@ -1,4 +1,4 @@
-
+# This is a sample test case for the MyList.print_sorted method
 >>> from my_list import MyList
 >>> my_list = MyList()
 >>> my_list.append(1)
